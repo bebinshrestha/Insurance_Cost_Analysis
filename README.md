@@ -20,6 +20,7 @@ This data contains clean and structured insurance data including demographic inf
   - Age distribution and impact of age on insurance charges (histogram and scatter plot)
   - Smoking status impact on insurance charges (scatter plot)
   - Correlation analysis (Head Map)
+  - Impact of BMI and smoking status on insurance charges (bar plot)
 
 ## Instructions
 1. #### Fork and Clone the Repository
